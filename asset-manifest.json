@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nasdaily/static/css/main.83faa00a.css",
-    "main.js": "/nasdaily/static/js/main.bde5c45f.js",
+    "main.js": "/nasdaily/static/js/main.ab71f5aa.js",
     "index.html": "/nasdaily/index.html",
     "main.83faa00a.css.map": "/nasdaily/static/css/main.83faa00a.css.map",
-    "main.bde5c45f.js.map": "/nasdaily/static/js/main.bde5c45f.js.map"
+    "main.ab71f5aa.js.map": "/nasdaily/static/js/main.ab71f5aa.js.map"
   },
   "entrypoints": [
     "static/css/main.83faa00a.css",
-    "static/js/main.bde5c45f.js"
+    "static/js/main.ab71f5aa.js"
   ]
 }
